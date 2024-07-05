@@ -1,18 +1,17 @@
 ---
-submission_id: 499
-title: Digital History Switzerland 2024 submission title
+submission_id: 499 - to clarify
+title: Multimodal UI for Video Retrieval at the Swiss Federal Archives
 author:
-  - name: Petra Huber
-    orcid: 0000-0002-0760-5497
-    email: petra.huber@university.ch
+  - name: Audray Sauvage
+    orcid: 
+    email: audray.sauvage@bar.admin.ch
     affiliations:
-      - University 1
-  - name: Michel Meier
-    orcid: 0000-0002-7859-8394
-    email: michel.meier@university.edu
+      - Swiss Federal Archives
+  - name: Julien A. Raemy
+    orcid: 0000-0002-4711-5759
+    email: julien.raemy@bar.admin.ch
     affiliations:
-      - University 1
-      - University 2
+      - Swiss Federal Archives
 keywords:
   - Keyword 1
   - Keyword 2
@@ -20,12 +19,10 @@ keywords:
   - Keyword 4 (optional)
   - Keyword 5 (optional)
 abstract: |
-  Short abstract of the submission. This is a placeholder for the abstract of the manuscript. It should be between 150 and 250 words. It must not contain any references or unexplained abbreviations.
-key-points:
-  - Key point 1 (1 sentence)
-  - Key point 2 (1 sentence)
-  - Key point 3 (1 sentence)
-date: 03-17-2024
+The Swiss Federal Archives (SFA) is responsible for the archiving of the administrative records of the federal authorities, in particular the government, the parliament and the civil service. Access to and the consultation of records by researchers and the public is a cornerstone of its legal mandate. In order to meet the current and future access requirements, the SFA is pursuing a strategy of consistent digital transformation aimed at facilitating access to archival information for users. 
+The advent of digital technology and artificial intelligence (AI) has revolutionized methods and tools in this context. For several years, the SFSA has been combining AI methods and their application to historical sources, such as the use of Automated Handwritten Text Recognition (AHTR) on the website Minutes of the Federal Council (1848-1972). 
+In 2022, the SFA decided to implement Archipanion, which is powered by Vitrivr, a content-based multimedia information retrieval system, to improve access to its digital film collection "Filmwochenschau (1940-1975)". Formerly indexed using standard methods without direct content exploitation, the collection is now easily searchable through AI-driven, content-based processing. This technological advancement provides both patrons and scholars with unprecedented access to over 6,600 videos, facilitating research and exploration anytime and anywhere.
+date: 07-25-2024
 bibliography: references.bib
 ---
 
