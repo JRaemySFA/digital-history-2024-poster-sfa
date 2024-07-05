@@ -13,11 +13,10 @@ author:
     affiliations:
       - Swiss Federal Archives
 keywords:
-  - Keyword 1
-  - Keyword 2
-  - Keyword 3
-  - Keyword 4 (optional)
-  - Keyword 5 (optional)
+  - Content-based Retrieval
+  - Digital Archives
+  - Object Detection
+  - Machine Learning
 abstract: |
 The Swiss Federal Archives (SFA) is responsible for the archiving of the administrative records of the federal authorities, in particular the government, the parliament and the civil service. Access to and the consultation of records by researchers and the public is a cornerstone of its legal mandate. In order to meet the current and future access requirements, the SFA is pursuing a strategy of consistent digital transformation aimed at facilitating access to archival information for users. 
 The advent of digital technology and artificial intelligence (AI) has revolutionized methods and tools in this context. For several years, the SFSA has been combining AI methods and their application to historical sources, such as the use of Automated Handwritten Text Recognition (AHTR) on the website Minutes of the Federal Council (1848-1972). 
