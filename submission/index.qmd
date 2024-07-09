@@ -76,3 +76,12 @@ plt.ylabel('Value')
 plt.grid(True)
 plt.show()
 ```
+
+A transformer en .bib
+
+Cornut et al. 2023. Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning. https://doi.org/10.1145/3625301 
+Hodel, Schneider, Purcell. 2021. General Models for Handwritten Text Recognition: Feasibility and State-of-the Art. German Kurrent as an Example. https://doi.org/10.5334/johd.46 
+Jaillant and Aske 2024. Are Users of Digital Archives Ready for the AI Era? Obstacles to the Application of Computational Research Methods and New Opportunities. https://doi.org/10.1145/3631125 
+Lin et al. 2024. Probing Historical Image Contexts: Enhancing Visual Archive Retrieval through Computer Vision. https://doi.org/10.1145/3631129 
+Rosetto et al. 2016. vitrivr: A Flexible Retrieval Stack Supporting Multiple Query Modes for Searching in Multimedia Collections- https://doi.org/10.1145/2964284.2973797 
+Sauter et al. 2024. General Purpose Multimedia Retrieval with vitrivr at LSC’24. https://doi.org/10.1145/3643489.3661120 
