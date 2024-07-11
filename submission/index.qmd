@@ -71,7 +71,6 @@ The integration of AI into archival research presents both innovative methodolog
 
 Ultimately, the SFA remains committed to improving the accessibility and usability of its archival collections for both patrons and staff. The implementation of Archipanion powered by vitrivr represents a significant leap forward in improving access to the Swiss Film Review and other digital holdings. By harnessing AI technologies, the SFA not only facilitates the exploration and retrieval of historical materials, but also provides researchers with advanced tools for in-depth analysis and discovery. Looking ahead, the SFA continues to explore innovative ways to enhance search capabilities and ensure that its vast archival resources remain accessible and relevant in the digital age. Collaborative efforts with stakeholders in the GLAM sector further strengthen these initiatives, with the aim of maximising societal benefits, fostering interdisciplinary research and preserving Switzerland's heritage for future generations.
 
-
 [^1]: Minutes of the Federal Council (1848-1972): <https://www.chgov.bar.admin.ch/> 
 [^2]: National Film Archive: <https://www.cinematheque.ch/> 
 [^3]: Memoriav: <https://memoriav.ch> 
