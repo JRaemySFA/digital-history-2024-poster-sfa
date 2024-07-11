@@ -1,5 +1,5 @@
 ---
-submission_id: 499 - to clarify
+submission_id: 440
 title: Multimodal UI for Video Retrieval at the Swiss Federal Archives
 author:
   - name: Audray Sauvage
@@ -33,7 +33,7 @@ Check <https://quarto.org/docs/authoring/markdown-basics.html> for more informat
 
 ::: {#fig-example}
 
-![Figure caption text.](images/placeholder.png)
+![Figure caption text.](images/archipanion-swissair.png)
 
 :::
 
