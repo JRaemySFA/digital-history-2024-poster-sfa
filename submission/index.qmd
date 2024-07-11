@@ -49,9 +49,15 @@ At its core, vitrivr transforms both images and textual content into a unified s
 
 Archipanion, developed by 4eyes GmbH, uses elements of Vitrivr to revolutionise access and content-based search within multimedia content for GLAM. Its web user interface supports multiple query types in a multilingual environment (German, French, Italian and English) and automates the enhancement of search content effortlessly. Archipanion harnesses various AI technologies, including the DeepL API , to comprehend queries in human language and deliver pertinent results.
 
-With a wide range of query modes, Archipanion facilitates scene searches by allowing users to enter descriptive queries, such as 'a football player lying in front of the goal', to locate relevant images from the Schweizer Filmwochenschau. Text search capabilities allow the discovery of specific content within films, such as the name of an airline (as seen in Figure 1) or a place name sign, through automatic text recognition. In addition, Archipanion supports exploration through similarity searches based on displayed images, helping users to discover previously unseen relationships within collections. Each search result offers the option to download sequences for use and re-use in different contexts, alongside a link to the object in the online archival arrangement.
- 
-Figure 1: Text search for “Swissair” on the Schweizerisches Bundesarchiv Filmwochenschauen platform.
+With a wide range of query modes, Archipanion facilitates scene searches by allowing users to enter descriptive queries, such as 'a football player lying in front of the goal', to locate relevant images from the Schweizer Filmwochenschau. Text search capabilities allow the discovery of specific content within films, such as the name of an airline (as seen in @fig-1) or a place name sign, through automatic text recognition. In addition, Archipanion supports exploration through similarity searches based on displayed images, helping users to discover previously unseen relationships within collections. Each search result offers the option to download sequences for use and re-use in different contexts, alongside a link to the object in the online archival arrangement.
+
+
+::: {#fig-1}
+
+![Text search for “Swissair” on the Schweizerisches Bundesarchiv Filmwochenschauen platform.](images/archipanion-swissair.png)
+
+:::
+
 The integration of vitrivr and Archipanion has significantly improved accessibility to the Filmwochenschau archive. Previously indexed using conventional methods with limited content utilisation, the collection is now effortlessly searchable through AI-driven, content-based processing. This technological advancement converts digitised information into actionable knowledge, providing historians and humanities researchers unprecedented access to over 6,600 videos, facilitating research and exploration anytime, anywhere.
 
 
@@ -74,57 +80,4 @@ This is a placeholder for the extended abstract of the paper. It should be betwe
 
 Check <https://quarto.org/docs/authoring/markdown-basics.html> for more information on how to use markdown, <https://quarto.org/docs/authoring/cross-references.html> for more information on how to use cross-references like this (See @fig-example and @fig-plots), and <https://quarto.org/docs/authoring/footnotes-and-citations.html> for more information on how to use citations like this one [@haber2011, p. 11].
 
-::: {#fig-example}
 
-![Figure caption text.](images/archipanion-swissair.png)
-
-:::
-
-## Section 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
-
-## Quarto Usage
-
-For advanced users, we recommend exploring features as **Code Blocks**: Use triple backticks (```) to create code blocks. Specify the language for syntax highlighting (e.g., ```python`). Quarto lets you run code and embed its output directly into your document. See <https://quarto.org/docs/computations/inline-code.html> for guidance.
-
-```{python}
-#| output: false
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Create some simple synthetic historical data
-np.random.seed(0)
-years = pd.date_range('1900-01-01', periods=120, freq='Y')
-values = np.random.normal(loc=0, scale=1, size=120).cumsum()
-
-data = pd.DataFrame({
-    'Year': years.year,
-    'Value': values
-})
-
-# Save the data to a CSV file
-data.to_csv('data/sample_data.csv', index=False)
-```
-
-```{python}
-#| label: fig-plots
-# Plotting the data
-plt.figure(figsize=(10, 6))
-plt.plot(data['Year'], data['Value'], marker='o')
-plt.title('Synthetic Historical Data')
-plt.xlabel('Year')
-plt.ylabel('Value')
-plt.grid(True)
-plt.show()
-```
-
-A transformer en .bib
-
-Cornut et al. 2023. Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning. https://doi.org/10.1145/3625301 
-Hodel, Schneider, Purcell. 2021. General Models for Handwritten Text Recognition: Feasibility and State-of-the Art. German Kurrent as an Example. https://doi.org/10.5334/johd.46 
-Jaillant and Aske 2024. Are Users of Digital Archives Ready for the AI Era? Obstacles to the Application of Computational Research Methods and New Opportunities. https://doi.org/10.1145/3631125 
-Lin et al. 2024. Probing Historical Image Contexts: Enhancing Visual Archive Retrieval through Computer Vision. https://doi.org/10.1145/3631129 
-Rosetto et al. 2016. vitrivr: A Flexible Retrieval Stack Supporting Multiple Query Modes for Searching in Multimedia Collections- https://doi.org/10.1145/2964284.2973797 
-Sauter et al. 2024. General Purpose Multimedia Retrieval with vitrivr at LSC’24. https://doi.org/10.1145/3643489.3661120 
