@@ -55,7 +55,7 @@ With a wide range of query modes, Archipanion facilitates scene searches by allo
 
 ::: {#fig-1}
 
-![Text search for “Swissair” on the website "Schweizerisches Bundesarchiv Filmwochenschauen".](images/archipanion-swissair.png)
+![Text search for “Swissair” on the website *Schweizerisches Bundesarchiv Filmwochenschauen*.](images/archipanion-swissair.png)
 
 :::
 
