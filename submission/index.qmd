@@ -15,7 +15,6 @@ author:
 keywords:
   - Content-based Retrieval
   - Digital Archives
-  - Object Detection
   - Machine Learning
 abstract: |
 The Swiss Federal Archives (SFA) is responsible for the archiving of the administrative records of the federal authorities, in particular the government, the parliament and the administration. Access to and the consultation of records by researchers and the public is a cornerstone of its legal mandate. In order to meet the current and future access requirements, the SFA is pursuing a strategy of consistent digital transformation aimed at facilitating access to archival information for users. 
