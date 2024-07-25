@@ -79,7 +79,7 @@ Ultimately, the SFA remains committed to improving the accessibility and usabili
 
 [^1]: Swiss Federal Archives: <https://www.bar.admin.ch/> 
 [^2]: Minutes of the Federal Council (1848-1972): <https://www.chgov.bar.admin.ch/> 
-[^3]: tcc-metadata-anoymization: <https://github.com/SwissFederalArchives/tcc-metadata-anonymization> 
+[^3]: tcc-metadata-anonymization: <https://github.com/SwissFederalArchives/tcc-metadata-anonymization> 
 [^4]: National Film Archive: <https://www.cinematheque.ch/> 
 [^5]: Memoriav: <https://memoriav.ch> 
 [^6]: Filmbestand Schweizer Filmwochenschau (1940-1975): <https://memoriav.ch/de/projects/schweizer-filmwochenschau-1940-1975/> 
